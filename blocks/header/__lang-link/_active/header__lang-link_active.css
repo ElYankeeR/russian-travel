@@ -1,0 +1,13 @@
+.header__lang-link_active {
+  text-decoration: underline;
+  text-underline-position: under;
+  -webkit-text-underline-position: under;
+  -ms-text-underline-position: under;
+}
+
+
+.header__lang-link_active:hover {
+  opacity: 0.8;
+}
+
+

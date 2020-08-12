@@ -1,0 +1,20 @@
+.footer__list-element {
+  margin-right: 18px;
+}
+
+.footer__list-element:last-of-type {
+  margin-right: 0px;
+}
+
+@media screen and (max-width: 720px) {
+  .footer__list-element {
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .footer__list-element:last-of-type {
+    margin-bottom: 0px;
+  }
+}
+
