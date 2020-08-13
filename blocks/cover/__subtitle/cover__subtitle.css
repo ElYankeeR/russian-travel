@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 550px) {
   .cover__subtitle {
     padding-bottom: 33px;
     margin: 16px auto 0;

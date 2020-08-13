@@ -2,7 +2,6 @@
 
 Небольшой сайт с информацией об интересных местах для посещения в России.
 Сверстал: Иттеров Кирилл. 2020.
-[Ссылка] (https://elyankeer.github.io/russian-travel/index.html) на работу.
 
 ### В данной работе используется следующее:
 1.  Методология `Nested БЭМ`
@@ -15,5 +14,6 @@
 2. **VS Studio**
 3. **DevTools**
 
-
+### Ссылка на работу:
+https://elyankeer.github.io/russian-travel/index.html 
 
