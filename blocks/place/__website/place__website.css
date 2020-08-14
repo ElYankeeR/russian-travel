@@ -6,7 +6,7 @@
   align-items: flex-start;
 }
 
-@media screen and (max-width: 690px) {
+@media screen and (max-width: 750px) {
   .place__website {
     display: none;
   }
